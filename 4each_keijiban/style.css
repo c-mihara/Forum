@@ -1,0 +1,134 @@
+header {
+height: 50px;
+}
+
+.logo {
+width: 424px;
+height: 106px;
+}
+
+.top_menu {
+width: 100%;
+height: 40px;
+font-size: 15px;
+line-height: 40px;
+background-color: black;
+}
+
+.top_menu li {
+float: left;
+list-style: none;
+color: white;
+padding-left: 40px;
+}
+
+.main {
+clear: both;
+}
+
+.right {
+float: left;
+width:70%;
+height: 500px;
+margin-bottom: 150px;
+}
+
+.left {
+float: left;
+width: 25%;
+height: 500px;
+margin-top: 10px;
+margin-bottom: 150px;
+}
+
+.inputform {
+background-color: #EEEEEE;
+border: 2px solid gray;
+width: 90%;
+height: 500px;
+padding-left: 10px;
+padding-bottom: 20px;
+}
+
+.handlename {
+margin-bottom: 20px;
+}
+
+.title {
+margin-bottom: 20px;
+}
+
+.comments {
+margin-bottom: 20px;
+}
+
+.inputform h2 {
+border-left: 4px solid red;
+padding-left: 10px;
+margin-top: 30px;
+}
+
+.button {
+background-color: #555555;
+color: white;
+border-bottom:2px black solid;
+border-radius:5px;
+padding: 5px;
+}
+.right h1 {
+border-left: 5px solid black;
+border-bottom: 1px solid black;
+padding-left: 2px;
+width: 90%;
+margin-top: 30px;
+}
+
+.left li {
+list-style: none;
+padding: 5px 0px;
+}
+
+.left_top {
+border-bottom: 1px dotted lightgray;
+}
+
+.left h2 {
+border-bottom: 1px dotted black;
+}
+
+.bottom {
+clear: left;
+height: 500px;
+}
+
+.kiji {
+background-color: #EEEEEE;
+border: 2px solid gray;
+width: 62%;
+padding-bottom: 10px;
+padding-left: 20px;
+margin-bottom: 20px;
+}
+
+.kiji h3 {
+border-bottom: 1px solid gray;
+width: 97%;
+}
+
+.handlename2 {
+padding-top: 10px;
+padding-bottom: 5px;
+}
+
+footer {
+clear: left;
+width: 100%;
+height: 40px;
+bottom: 0;
+left: 0px;
+color: white;
+background-color: black;
+text-align: center;
+line-height: 40px;
+font-size: 15px;
+}
